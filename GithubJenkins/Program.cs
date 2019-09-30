@@ -6,7 +6,7 @@ namespace GithubJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Jenkins and Github!");
+            Console.WriteLine("Hello World from The Jenkins and Github!");
         }
     }
 }
